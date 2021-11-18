@@ -78,7 +78,9 @@ p{
   text-align: justify;
   line-height: 2;
 }
-
+.skill-first{
+  text-align: right;
+}
 .img-dev {
   width: 25%;
   float: left;
